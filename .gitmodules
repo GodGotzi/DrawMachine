@@ -1,0 +1,15 @@
+[submodule "DrawMachineSim"]
+	path = DrawMachineSim
+	url = https://github.com/GodGotzi/DrawMachineSim.git
+[submodule "DrawMachineArduino"]
+	path = DrawMachineArduino
+	url = https://github.com/GodGotzi/DrawMachineArduino.git
+[submodule "DrawMachineConstruction"]
+	path = DrawMachineConstruction
+	url = https://github.com/GodGotzi/DrawMachineConstruction.git
+[submodule "DrawMachineElectronics"]
+	path = DrawMachineElectronics
+	url = https://github.com/GodGotzi/DrawMachineElectronics.git
+[submodule "DrawMachineProtocol"]
+	path = DrawMachineProtocol
+	url = https://github.com/GodGotzi/DrawMachineProtocol.git
